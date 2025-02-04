@@ -1,0 +1,5 @@
+langgraph
+tavily-python
+langchain_community
+langchain-huggingface
+python-dotenv
